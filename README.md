@@ -99,7 +99,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=m-muhammadjon&color=green)
+![](https://komarev.com/ghpvc/?username=m-muhammadjon&color=green)
 </div>
 
 <!--horizontal divider(gradiant)-->
