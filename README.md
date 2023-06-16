@@ -118,6 +118,6 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=m-muhammadjon&color=green)
 
 
