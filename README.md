@@ -113,11 +113,11 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=m-muhammadjon&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=m-muhammadjon&color=green)
   
 </div>
 
 <!--horizontal divider(gradiant)-->
-![](https://komarev.com/ghpvc/?username=m-muhammadjon&color=green)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
