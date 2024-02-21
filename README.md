@@ -22,9 +22,8 @@
 
 <!--Intro start-->
 
-- I’m currently working on CodeChampion and SocialChat.
-- I’m currently learning Rust language.
-- I regularly write articles on Hashnode.
+- I’m currently working on JSON Translator.
+- I’m currently learning FastAPI Framework.
 - Ask me about Python, Django, databases, websockets, OOP, queue services.
 - Feel free to reach me at muhammadjon.200415@gmail.com.
 - Also, I have an interest in computer cores.
